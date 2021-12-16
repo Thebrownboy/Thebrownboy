@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Computer Vision , Computer architecture and Web Development 
 - 📫 How to reach me **abdalla.abdelazez29@eng-st.cu.edu.eg**
 - ⚡ Fun fact: I am the only brownboy in the world 😄
+- ⚡ another Fun Fact : 3.14 is the most extraordinary number in the World.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thebrownboy&theme=radical)
 
