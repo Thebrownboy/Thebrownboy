@@ -3,9 +3,9 @@
 ---
 
 - 🔭 I’m currently working on developing my skills on computer Engineering specially Web Development AI and CyberSecurity.
-- ⚡ Fun fact: I am the only brownboy in the world 😄
 - 🌱 I’m currently learning Computer Vision , Computer architecture and Web Development 
 - 📫 How to reach me **abdalla.abdelazez29@eng-st.cu.edu.eg**
+- ⚡ Fun fact: I am the only brownboy in the world 😄
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thebrownboy&theme=radical)
 
